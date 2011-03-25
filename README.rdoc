@@ -1,0 +1,6 @@
+= ldap_extensions
+
+This plugin extends the basic LDAP functionality in Redmine and ChiliProject with some nifty extra features
+
+Current features:
+* Add users from the LDAP directory straight to a project
