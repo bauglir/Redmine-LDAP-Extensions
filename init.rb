@@ -1,5 +1,9 @@
 require 'redmine'
 
+# Patch controllers and models
+require 'ldap_extensions_members_controller_patch'
+require 'ldap_extensions_auth_source_ldap_model_patch'
+
 Redmine::Plugin.register :redmine_ldap_extensions do
   name 'LDAP Extensions'
   author 'Joris Kraak'
