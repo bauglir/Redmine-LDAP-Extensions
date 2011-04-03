@@ -1,4 +1,4 @@
-= ldap_extensions
+= Redmine LDAP Extensions
 
 This plugin extends the basic LDAP functionality in Redmine and ChiliProject with some nifty extra features
 
